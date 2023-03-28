@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/synaptics_dsx_force/built-in.a :=  rm -f drivers/input/touchscreen/synaptics_dsx_force/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/input/touchscreen/synaptics_dsx_force/built-in.a drivers/input/touchscreen/synaptics_dsx_force/synaptics_dsx_i2c.o

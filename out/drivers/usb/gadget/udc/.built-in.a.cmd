@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/udc/built-in.a :=  rm -f drivers/usb/gadget/udc/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/usb/gadget/udc/built-in.a drivers/usb/gadget/udc/core.o drivers/usb/gadget/udc/trace.o

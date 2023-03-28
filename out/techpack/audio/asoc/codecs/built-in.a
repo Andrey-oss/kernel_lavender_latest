@@ -1,0 +1,88 @@
+!<thin>
+//                                              870       `
+wcd934x/wcd934x.o/
+wcd934x/wcd934x-dsp-cntl.o/
+wcd934x/wcd934x-mbhc.o/
+wcd934x/wcd934x-dsd.o/
+sdm660_cdc/msm-analog-cdc.o/
+sdm660_cdc/sdm660-cdc-irq.o/
+sdm660_cdc/msm-digital-cdc.o/
+sdm660_cdc/msm-digital-cdc-regmap.o/
+msm_sdw/msm_sdw_cdc.o/
+msm_sdw/msm_sdw_regmap.o/
+msm_sdw/msm-sdw-tables.o/
+msm_sdw/msm_sdw_cdc_utils.o/
+wcd9xxx-rst.o/
+wcd9xxx-core-init.o/
+wcd9xxx-core.o/
+wcd9xxx-irq.o/
+wcd9xxx-slimslave.o/
+wcd9xxx-utils.o/
+wcd9335-regmap.o/
+wcd9335-tables.o/
+msm-cdc-pinctrl.o/
+msm-cdc-supply.o/
+wcd934x/wcd934x-regmap.o/
+wcd934x/wcd934x-tables.o/
+wcd9xxx-common-v2.o/
+wcd9xxx-resmgr-v2.o/
+wcdcal-hwdep.o/
+wcd9xxx-soc-init.o/
+wcd-dsp-utils.o/
+wcd-dsp-mgr.o/
+audio-ext-clk-up.o/
+wcd9335.o/
+wsa881x.o/
+wsa881x-tables.o/
+wsa881x-regmap.o/
+wsa881x-temp-sensor.o/
+msm_stub.o/
+wcd-spi.o/
+wcd-mbhc-v2.o/
+wcd-mbhc-adc.o/
+wcd-mbhc-legacy.o/
+msm_hdmi_codec_rx.o/
+max98937.o/
+/0              0           0     0     644     571640    `
+/19             0           0     0     644     27992     `
+/47             0           0     0     644     23968     `
+/71             0           0     0     644     17720     `
+/94             0           0     0     644     609784    `
+/123            0           0     0     644     10776     `
+/152            0           0     0     644     96248     `
+/182            0           0     0     644     9312      `
+/219            0           0     0     644     58120     `
+/242            0           0     0     644     2784      `
+/268            0           0     0     644     4176      `
+/294            0           0     0     644     5984      `
+/323            0           0     0     644     7720      `
+/338            0           0     0     644     3664      `
+/359            0           0     0     644     36552     `
+/375            0           0     0     644     21720     `
+/390            0           0     0     644     13576     `
+/411            0           0     0     644     26464     `
+/428            0           0     0     644     15624     `
+/446            0           0     0     644     6144      `
+/464            0           0     0     644     12488     `
+/483            0           0     0     644     16288     `
+/501            0           0     0     644     17648     `
+/527            0           0     0     644     8080      `
+/553            0           0     0     644     23352     `
+/574            0           0     0     644     31872     `
+/595            0           0     0     644     8352      `
+/611            0           0     0     644     3200      `
+/631            0           0     0     644     5440      `
+/648            0           0     0     644     25784     `
+/663            0           0     0     644     17568     `
+/683            0           0     0     644     566912    `
+/694            0           0     0     644     35016     `
+/705            0           0     0     644     13624     `
+/723            0           0     0     644     3520      `
+/741            0           0     0     644     4624      `
+/764            0           0     0     644     5152      `
+/776            0           0     0     644     34184     `
+/787            0           0     0     644     40160     `
+/802            0           0     0     644     19864     `
+/818            0           0     0     644     16128     `
+/837            0           0     0     644     24848     `
+/858            0           0     0     644     69648     `

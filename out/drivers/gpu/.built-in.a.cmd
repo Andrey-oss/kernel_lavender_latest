@@ -1,0 +1,1 @@
+cmd_drivers/gpu/built-in.a :=  rm -f drivers/gpu/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/gpu/built-in.a drivers/gpu/drm/built-in.a drivers/gpu/vga/built-in.a drivers/gpu/msm/built-in.a

@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/qcom/built-in.a :=  rm -f drivers/pinctrl/qcom/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/pinctrl/qcom/built-in.a drivers/pinctrl/qcom/pinctrl-msm.o drivers/pinctrl/qcom/pinctrl-spmi-gpio.o drivers/pinctrl/qcom/pinctrl-spmi-mpp.o drivers/pinctrl/qcom/pinctrl-sdm660.o

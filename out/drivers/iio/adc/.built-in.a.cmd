@@ -1,0 +1,1 @@
+cmd_drivers/iio/adc/built-in.a :=  rm -f drivers/iio/adc/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/iio/adc/built-in.a drivers/iio/adc/qcom-spmi-adc5.o drivers/iio/adc/qcom-tadc.o drivers/iio/adc/qcom-rradc.o drivers/iio/adc/qcom-vadc-common.o drivers/iio/adc/qcom-spmi-vadc.o

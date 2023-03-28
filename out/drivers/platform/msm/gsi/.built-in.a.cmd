@@ -1,0 +1,1 @@
+cmd_drivers/platform/msm/gsi/built-in.a :=  rm -f drivers/platform/msm/gsi/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/platform/msm/gsi/built-in.a drivers/platform/msm/gsi/gsi.o drivers/platform/msm/gsi/gsi_dbg.o

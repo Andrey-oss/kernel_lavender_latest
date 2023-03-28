@@ -1,0 +1,1 @@
+cmd_techpack/audio/soc/built-in.a :=  rm -f techpack/audio/soc/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD techpack/audio/soc/built-in.a techpack/audio/soc/pinctrl-wcd.o techpack/audio/soc/pinctrl-lpi-legacy.o techpack/audio/soc/regmap-swr.o techpack/audio/soc/soundwire.o techpack/audio/soc/swr-wcd-ctrl.o

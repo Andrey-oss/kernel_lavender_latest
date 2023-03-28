@@ -1,0 +1,8 @@
+sdm660-mtp-lavender-overlay.o: \
+ ../arch/arm64/boot/dts/vendor/qcom/sdm660-mtp-lavender-overlay.dts \
+ ../scripts/dtc/include-prefixes/dt-bindings/clock/qcom,cpu-osm.h \
+ ../scripts/dtc/include-prefixes/dt-bindings/clock/qcom,rpmcc.h \
+ ../scripts/dtc/include-prefixes/dt-bindings/clock/qcom,mmcc-sdm660.h \
+ ../scripts/dtc/include-prefixes/dt-bindings/regulator/qcom,rpm-smd-regulator.h \
+ ../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/arm-gic.h \
+ ../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/irq.h

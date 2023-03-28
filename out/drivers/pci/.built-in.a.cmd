@@ -1,0 +1,1 @@
+cmd_drivers/pci/built-in.a :=  rm -f drivers/pci/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/pci/built-in.a drivers/pci/controller/built-in.a drivers/pci/switch/built-in.a

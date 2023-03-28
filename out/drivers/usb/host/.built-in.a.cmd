@@ -1,0 +1,1 @@
+cmd_drivers/usb/host/built-in.a :=  rm -f drivers/usb/host/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/usb/host/built-in.a drivers/usb/host/xhci.o drivers/usb/host/xhci-mem.o drivers/usb/host/xhci-ext-caps.o drivers/usb/host/xhci-ring.o drivers/usb/host/xhci-hub.o drivers/usb/host/xhci-dbg.o drivers/usb/host/xhci-trace.o drivers/usb/host/xhci-plat.o

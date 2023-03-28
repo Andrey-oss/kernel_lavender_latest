@@ -1,0 +1,2 @@
+kernel/techpack/audio/asoc/codecs/sdm660_cdc/analog_cdc_dlkm.ko
+kernel/techpack/audio/asoc/codecs/sdm660_cdc/digital_cdc_dlkm.ko

@@ -1,0 +1,1 @@
+cmd_drivers/cpufreq/built-in.a :=  rm -f drivers/cpufreq/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/cpufreq/built-in.a drivers/cpufreq/cpufreq.o drivers/cpufreq/freq_table.o drivers/cpufreq/cpufreq_stats.o drivers/cpufreq/cpufreq_times.o drivers/cpufreq/cpufreq_performance.o drivers/cpufreq/cpufreq_governor_attr_set.o drivers/cpufreq/qcom-cpufreq.o

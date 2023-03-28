@@ -1,0 +1,1 @@
+cmd_drivers/spi/built-in.a :=  rm -f drivers/spi/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/spi/built-in.a drivers/spi/spi.o drivers/spi/spidev.o drivers/spi/spi-qup.o drivers/spi/spi_qsd.o

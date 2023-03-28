@@ -1,0 +1,107 @@
+!<thin>
+//                                              836       `
+sound_core.o/
+core/sound.o/
+core/init.o/
+core/memory.o/
+core/control.o/
+core/misc.o/
+core/device.o/
+core/info.o/
+core/ctljack.o/
+core/jack.o/
+core/hwdep.o/
+core/timer.o/
+core/pcm.o/
+core/pcm_native.o/
+core/pcm_lib.o/
+core/pcm_misc.o/
+core/pcm_memory.o/
+core/memalloc.o/
+core/pcm_timer.o/
+core/pcm_drm_eld.o/
+core/pcm_iec958.o/
+core/rawmidi.o/
+core/compress_offload.o/
+usb/card.o/
+usb/clock.o/
+usb/endpoint.o/
+usb/format.o/
+usb/helper.o/
+usb/mixer.o/
+usb/mixer_quirks.o/
+usb/mixer_scarlett.o/
+usb/mixer_us16x08.o/
+usb/pcm.o/
+usb/power.o/
+usb/proc.o/
+usb/quirks.o/
+usb/stream.o/
+usb/validate.o/
+usb/midi.o/
+usb/usb_audio_qmi_v01.o/
+usb/usb_audio_qmi_svc.o/
+soc/soc-core.o/
+soc/soc-dapm.o/
+soc/soc-jack.o/
+soc/soc-utils.o/
+soc/soc-pcm.o/
+soc/soc-io.o/
+soc/soc-devres.o/
+soc/soc-ops.o/
+soc/soc-compress.o/
+soc/codecs/hdmi-codec.o/
+last.o/
+
+/0              0           0     0     644     3176      `
+/14             0           0     0     644     8952      `
+/28             0           0     0     644     22808     `
+/41             0           0     0     644     2280      `
+/56             0           0     0     644     44008     `
+/72             0           0     0     644     1144      `
+/85             0           0     0     644     3840      `
+/100            0           0     0     644     17832     `
+/113            0           0     0     644     2960      `
+/129            0           0     0     644     6872      `
+/142            0           0     0     644     18112     `
+/156            0           0     0     644     44136     `
+/170            0           0     0     644     29848     `
+/182            0           0     0     644     128176    `
+/201            0           0     0     644     34288     `
+/217            0           0     0     644     5128      `
+/234            0           0     0     644     7720      `
+/253            0           0     0     644     4992      `
+/270            0           0     0     644     3752      `
+/288            0           0     0     644     2808      `
+/308            0           0     0     644     2000      `
+/327            0           0     0     644     40816     `
+/343            0           0     0     644     17688     `
+/368            0           0     0     644     96776     `
+/380            0           0     0     644     9592      `
+/393            0           0     0     644     11680     `
+/409            0           0     0     644     9080      `
+/423            0           0     0     644     2192      `
+/437            0           0     0     644     66552     `
+/450            0           0     0     644     37840     `
+/470            0           0     0     644     17128     `
+/492            0           0     0     644     19240     `
+/513           /0           0     0     644     25104     `
+/524            0           0     0     644     2768      `
+/537            0           0     0     644     6488      `
+/549            0           0     0     644     17512     `
+/563            0           0     0     644     17880     `
+/577            0           0     0     644     4048      `
+/593            0           0     0     644     38320     `
+/605            0           0     0     644     4736      `
+/630            0           0     0     644     34576     `
+/655            0           0     0     644     60016     `
+/671            0           0     0     644     59120     `
+/687            0           0     0     644     8472      `
+/703            0           0     0     644     9432      `
+/720            0           0     0     644     46920     `
+/735            0           0     0     644     3904      `
+/749            0           0     0     644     2096      `
+/767            0           0     0     644     9160      `
+/782            0           0     0     644     17048     `
+/802            0           0     0     644     13400     `
+/827            0           0     0     644     2280      `

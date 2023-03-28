@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/msm/built-in.a :=  rm -f drivers/media/platform/msm/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/media/platform/msm/built-in.a drivers/media/platform/msm/sde/built-in.a drivers/media/platform/msm/vidc_3x/built-in.a drivers/media/platform/msm/camera_v2/built-in.a

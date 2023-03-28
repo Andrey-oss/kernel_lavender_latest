@@ -1,0 +1,1 @@
+cmd_drivers/crypto/built-in.a :=  rm -f drivers/crypto/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/crypto/built-in.a drivers/crypto/qce/built-in.a drivers/crypto/msm/built-in.a drivers/crypto/hisilicon/built-in.a

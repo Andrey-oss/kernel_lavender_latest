@@ -1,0 +1,59 @@
+!<thin>
+//                                              396       `
+ipahal/ipahal.o/
+ipahal/ipahal_reg.o/
+ipahal/ipahal_fltrt.o/
+ipahal/ipahal_hw_stats.o/
+ipahal/ipahal_nat.o/
+ipa.o/
+ipa_debugfs.o/
+ipa_hdr.o/
+ipa_flt.o/
+ipa_rt.o/
+ipa_dp.o/
+ipa_client.o/
+ipa_utils.o/
+ipa_nat.o/
+ipa_intf.o/
+teth_bridge.o/
+ipa_interrupts.o/
+ipa_uc.o/
+ipa_uc_wdi.o/
+ipa_dma.o/
+ipa_uc_mhi.o/
+ipa_mhi.o/
+ipa_uc_ntn.o/
+ipa_hw_stats.o/
+ipa_pm.o/
+ipa_wdi3_i.o/
+ipa_odl.o/
+ipa_wigig_i.o/
+
+/0              0           0     0     644     52832     `
+/17             0           0     0     644     152840    `
+/38             0           0     0     644     118504    `
+/61             0           0     0     644     16248     `
+/87             0           0     0     644     18864     `
+/108            0           0     0     644     208384    `
+/115            0           0     0     644     1112      `
+/130            0           0     0     644     40272     `
+/141            0           0     0     644     62024     `
+/152            0           0     0     644     75344     `
+/162            0           0     0     644     127312    `
+/172            0           0     0     644     54904     `
+/186            0           0     0     644     227416    `
+/199            0           0     0     644     54600     `
+/210            0           0     0     644     20392     `
+/222            0           0     0     644     7624      `
+/237            0           0     0     644     14920     `
+/255            0           0     0     644     40992     `
+/265            0           0     0     644     65664     `
+/279            0           0     0     644     34880     `
+/290            0           0     0     644     20960     `
+/304            0           0     0     644     25184     `
+/315            0           0     0     644     19040     `
+/329            0           0     0     644     52792     `
+/345            0           0     0     644     44608     `
+/355            0           0     0     644     28072     `
+/369            0           0     0     644     17496     `
+/380            0           0     0     644     41472     `

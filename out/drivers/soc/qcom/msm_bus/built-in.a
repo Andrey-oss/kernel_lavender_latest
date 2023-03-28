@@ -1,0 +1,24 @@
+!<thin>
+//                                              218       `
+msm_bus_core.o/
+msm_bus_client_api.o/
+msm_bus_of.o/
+msm_bus_rpm_smd.o/
+msm_bus_fabric_adhoc.o/
+msm_bus_arb_adhoc.o/
+msm_bus_rules.o/
+msm_bus_bimc_adhoc.o/
+msm_bus_noc_adhoc.o/
+msm_bus_qnoc_adhoc.o/
+msm_bus_of_adhoc.o/
+/0              0           0     0     644     5312      `
+/16             0           0     0     644     4440      `
+/38             0           0     0     644     20320     `
+/52             0           0     0     644     4328      `
+/71             0           0     0     644     25960     `
+/95             0           0     0     644     24072     `
+/116            0           0     0     644     14128     `
+/133            0           0     0     644     6096      `
+/155            0           0     0     644     6416      `
+/176            0           0     0     644     2712      `
+/198            0           0     0     644     19632     `

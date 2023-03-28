@@ -1,0 +1,1 @@
+cmd_drivers/staging/android/built-in.a :=  rm -f drivers/staging/android/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/staging/android/built-in.a drivers/staging/android/ion/built-in.a drivers/staging/android/ashmem.o drivers/staging/android/timed_output.o drivers/staging/android/lowmemorykiller.o

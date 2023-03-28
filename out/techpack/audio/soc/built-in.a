@@ -1,0 +1,12 @@
+!<thin>
+//                                              80        `
+pinctrl-wcd.o/
+pinctrl-lpi-legacy.o/
+regmap-swr.o/
+soundwire.o/
+swr-wcd-ctrl.o/
+/0              0           0     0     644     11640     `
+/15             0           0     0     644     20376     `
+/37             0           0     0     644     6472      `
+/51             0           0     0     644     19584     `
+/64             0           0     0     644     34168     `

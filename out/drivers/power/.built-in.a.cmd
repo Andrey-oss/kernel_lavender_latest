@@ -1,0 +1,1 @@
+cmd_drivers/power/built-in.a :=  rm -f drivers/power/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/power/built-in.a drivers/power/reset/built-in.a drivers/power/supply/built-in.a

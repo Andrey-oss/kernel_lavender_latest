@@ -1,0 +1,54 @@
+!<thin>
+//                                              442       `
+thermal_core.o/
+thermal_sysfs.o/
+thermal_helpers.o/
+thermal_hwmon.o/
+of-thermal.o/
+step_wise.o/
+user_space.o/
+gov_low_limits.o/
+cpu_cooling.o/
+devfreq_cooling.o/
+qcom-spmi-temp-alarm.o/
+qcom/adc-tm.o/
+qcom/adc-tm-common.o/
+qcom/adc-tm5.o/
+qcom/adc-tm7.o/
+qcom/qti_virtual_sensor.o/
+qcom/msm_lmh_dcvs.o/
+qcom/lmh_dbg.o/
+qcom/regulator_cdev.o/
+qcom/cpu_isolate.o/
+msm-tsens.o/
+tsens2xxx.o/
+tsens-dbg.o/
+tsens-mtc.o/
+tsens1xxx.o/
+tsens-calib.o/
+/0              0           0     0     644     35920     `
+/16             0           0     0     644     29520     `
+/33             0           0     0     644     3320      `
+/52             0           0     0     644     6288      `
+/69             0           0     0     644     20408     `
+/83             0           0     0     644     3232      `
+/96             0           0     0     644     2832      `
+/110            0           0     0     644     2776      `
+/128            0           0     0     644     10520     `
+/143            0           0     0     644     10584     `
+/162            0           0     0     644     8112      `
+/186            0           0     0     644     12800     `
+/201            0           0     0     644     5536      `
+/223            0           0     0     644     23704     `
+/239            0           0     0     644     15448     `
+/255            0           0     0     644     6880      `
+/282            0           0     0     644     23832     `
+/303            0           0     0     644     1552      `
+/319            0           0     0     644     6112      `
+/342            0           0     0     644     10584     `
+/362            0           0     0     644     13472     `
+/375            0           0     0     644     13392     `
+/388            0           0     0     644     9728      `
+/401            0           0     0     644     4152      `
+/414            0           0     0     644     7552      `
+/427            0           0     0     644     3696      `

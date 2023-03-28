@@ -1,0 +1,17 @@
+!<thin>
+//                                              128       `
+cpufreq.o/
+freq_table.o/
+cpufreq_stats.o/
+cpufreq_times.o/
+cpufreq_performance.o/
+cpufreq_governor_attr_set.o/
+qcom-cpufreq.o/
+
+/0              0           0     0     644     58152     `
+/11             0           0     0     644     4888      `
+/25             0           0     0     644     6656      `
+/42             0           0     0     644     16016     `
+/59             0           0     0     644     3080      `
+/82             0           0     0     644     2560      `
+/111            0           0     0     644     18824     `

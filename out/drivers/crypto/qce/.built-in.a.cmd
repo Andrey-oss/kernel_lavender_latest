@@ -1,0 +1,1 @@
+cmd_drivers/crypto/qce/built-in.a :=  rm -f drivers/crypto/qce/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/crypto/qce/built-in.a drivers/crypto/qce/core.o drivers/crypto/qce/common.o drivers/crypto/qce/dma.o drivers/crypto/qce/sha.o drivers/crypto/qce/ablkcipher.o

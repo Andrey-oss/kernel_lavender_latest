@@ -1,0 +1,22 @@
+!<thin>
+//                                              132       `
+soc-core.o/
+soc-dapm.o/
+soc-jack.o/
+soc-utils.o/
+soc-pcm.o/
+soc-io.o/
+soc-devres.o/
+soc-ops.o/
+soc-compress.o/
+codecs/hdmi-codec.o/
+/0              0           0     0     644     60016     `
+/12             0           0     0     644     59120     `
+/24             0           0     0     644     8472      `
+/36             0           0     0     644     9432      `
+/49             0           0     0     644     46920     `
+/60             0           0     0     644     3904      `
+/70             0           0     0     644     2096      `
+/84             0           0     0     644     9160      `
+/95             0           0     0     644     17048     `
+/111            0           0     0     644     13400     `

@@ -1,0 +1,112 @@
+!<thin>
+//                                              968       `
+mdss_mdp.o/
+mdss_mdp_ctl.o/
+mdss_mdp_pipe.o/
+mdss_mdp_util.o/
+dsi_status_6g.o/
+mdss_mdp_pp.o/
+mdss_mdp_pp_debug.o/
+mdss_mdp_pp_cache_config.o/
+mdss_sync.o/
+mdss_mdp_intf_video.o/
+mdss_mdp_intf_cmd.o/
+mdss_mdp_intf_writeback.o/
+mdss_rotator.o/
+mdss_mdp_overlay.o/
+mdss_mdp_layer.o/
+mdss_mdp_splash_logo.o/
+mdss_mdp_cdm.o/
+mdss_smmu.o/
+mdss_mdp_wfd.o/
+mdss_io_util.o/
+mdss_mdp_pp_v1_7.o/
+mdss_mdp_pp_v3.o/
+mdss_mdp_pp_common.o/
+mdss_mdp_pp_stub.o/
+mdss_dsi.o/
+mdss_dsi_host.o/
+mdss_dsi_cmd.o/
+mdss_dsi_status.o/
+mdss_dsi_panel.o/
+msm_mdss_io_8974.o/
+mdss_dsi_phy.o/
+mdss_dsi_phy_v3.o/
+mdss_dsi_phy_12nm.o/
+mdss_dsi_clk.o/
+mdss_panel.o/
+mdss_hdmi_util.o/
+mdss_hdmi_edid.o/
+mdss_cec_core.o/
+mdss_dba_utils.o/
+mdss_hdmi_tx.o/
+mdss_hdmi_panel.o/
+mdss_hdcp_1x.o/
+mdss_hdcp_2x.o/
+mdss_hdmi_hdcp2p2.o/
+mdss_hdmi_cec.o/
+mdss_hdmi_audio.o/
+mdss_dp.o/
+mdss_dp_util.o/
+mdss_dp_aux.o/
+mdss_dp_hdcp2p2.o/
+mdss_wb.o/
+mdss_fb.o/
+mdss_util.o/
+mdss_mdp_kcal_ctrl.o/
+mdss_compat_utils.o/
+/0              0           0     0     644     133760    `
+/12             0           0     0     644     85648     `
+/28             0           0     0     644     40736     `
+/45             0           0     0     644     23944     `
+/62             0           0     0     644     3648      `
+/79             0           0     0     644     138432    `
+/94             0           0     0     644     24368     `
+/115            0           0     0     644     53104     `
+/143            0           0     0     644     10520     `
+/156            0           0     0     644     42360     `
+/179            0           0     0     644     63272     `
+/200            0           0     0     644     23176     `
+/227            0           0     0     644     72872     `
+/243            0           0     0     644     129656    `
+/263            0           0     0     644     57784     `
+/281            0           0     0     644     59456     `
+/305            0           0     0     644     5080      `
+/321            0           0     0     644     29064     `
+/334            0           0     0     644     16304     `
+/350            0           0     0     644     14824     `
+/366            0           0     0     644     45152     `
+/386            0           0     0     644     20208     `
+/404            0           0     0     644     2024      `
+/426            0           0     0     644     3200      `
+/446            0           0     0     644     101800    `
+/458            0           0     0     644     60576     `
+/475            0           0     0     644     8640      `
+/491            0           0     0     644     10024     `
+/510            0           0     0     644     84344     `
+/528            0           0     0     644     39624     `
+/548            0           0     0     644     10000     `
+/564            0           0     0     644     7064      `
+/583            0           0     0     644     1688      `
+/604            0           0     0     644     24416     `
+/620            0           0     0     644     8864      `
+/634            0           0     0     644     37648     `
+/652            0           0     0     644     38440     `
+/670            0           0     0     644     19144     `
+/687            0           0     0     644     9440      `
+/705            0           0     0     644     113872    `
+/721            0           0     0     644     10184     `
+/740            0           0     0     644     36024     `
+/756            0           0     0     644     19896     `
+/772            0           0     0     644     28536     `
+/793            0           0     0     644     11192     `
+/810            0           0     0     644     4464      `
+/829            0           0     0     644     100272    `
+/840            0           0     0     644     15280     `
+/856            0           0     0     644     41680     `
+/871            0           0     0     644     21640     `
+/890            0           0     0     644     6360      `
+/901            0           0     0     644     127936    `
+/912            0           0     0     644     6104      `
+/925            0           0     0     644     20960     `
+/947            0           0     0     644     155784    `

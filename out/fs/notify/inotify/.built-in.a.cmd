@@ -1,0 +1,1 @@
+cmd_fs/notify/inotify/built-in.a :=  rm -f fs/notify/inotify/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD fs/notify/inotify/built-in.a fs/notify/inotify/inotify_fsnotify.o fs/notify/inotify/inotify_user.o

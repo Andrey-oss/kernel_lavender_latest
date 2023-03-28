@@ -1,0 +1,1 @@
+cmd_drivers/nvmem/built-in.a :=  rm -f drivers/nvmem/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/nvmem/built-in.a drivers/nvmem/core.o drivers/nvmem/nvmem-sysfs.o drivers/nvmem/qfprom.o drivers/nvmem/qcom-spmi-sdam.o

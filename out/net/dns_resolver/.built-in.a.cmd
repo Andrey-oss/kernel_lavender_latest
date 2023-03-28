@@ -1,0 +1,1 @@
+cmd_net/dns_resolver/built-in.a :=  rm -f net/dns_resolver/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD net/dns_resolver/built-in.a net/dns_resolver/dns_key.o net/dns_resolver/dns_query.o

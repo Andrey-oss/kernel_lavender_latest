@@ -1,0 +1,1 @@
+cmd_drivers/mailbox/built-in.a :=  rm -f drivers/mailbox/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/mailbox/built-in.a drivers/mailbox/mailbox.o drivers/mailbox/qcom-apcs-ipc-mailbox.o drivers/mailbox/msm_qmp.o

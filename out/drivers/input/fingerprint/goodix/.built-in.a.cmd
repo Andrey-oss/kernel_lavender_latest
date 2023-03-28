@@ -1,0 +1,1 @@
+cmd_drivers/input/fingerprint/goodix/built-in.a :=  rm -f drivers/input/fingerprint/goodix/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/input/fingerprint/goodix/built-in.a drivers/input/fingerprint/goodix/gf_spi.o drivers/input/fingerprint/goodix/platform.o drivers/input/fingerprint/goodix/netlink.o

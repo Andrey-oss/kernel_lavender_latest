@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/msm/camera_v2/sensor/flash/built-in.a :=  rm -f drivers/media/platform/msm/camera_v2/sensor/flash/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/media/platform/msm/camera_v2/sensor/flash/built-in.a drivers/media/platform/msm/camera_v2/sensor/flash/msm_flash.o

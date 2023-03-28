@@ -1,0 +1,1 @@
+cmd_net/bridge/netfilter/built-in.a :=  rm -f net/bridge/netfilter/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD net/bridge/netfilter/built-in.a net/bridge/netfilter/ebtables.o net/bridge/netfilter/ebtable_broute.o

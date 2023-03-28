@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/built-in.a :=  rm -f drivers/input/keyboard/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/input/keyboard/built-in.a drivers/input/keyboard/gpio_keys.o

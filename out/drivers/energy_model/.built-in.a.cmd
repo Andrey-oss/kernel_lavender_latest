@@ -1,0 +1,1 @@
+cmd_drivers/energy_model/built-in.a :=  rm -f drivers/energy_model/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/energy_model/built-in.a drivers/energy_model/legacy_em_dt.o

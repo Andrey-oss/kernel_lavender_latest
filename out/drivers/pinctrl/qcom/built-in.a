@@ -1,0 +1,10 @@
+!<thin>
+//                                              74        `
+pinctrl-msm.o/
+pinctrl-spmi-gpio.o/
+pinctrl-spmi-mpp.o/
+pinctrl-sdm660.o/
+/0              0           0     0     644     27040     `
+/15             0           0     0     644     27424     `
+/36             0           0     0     644     20440     `
+/56             0           0     0     644     89264     `

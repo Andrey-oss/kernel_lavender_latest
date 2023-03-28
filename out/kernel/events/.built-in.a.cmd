@@ -1,0 +1,1 @@
+cmd_kernel/events/built-in.a :=  rm -f kernel/events/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD kernel/events/built-in.a kernel/events/core.o kernel/events/ring_buffer.o kernel/events/callchain.o kernel/events/hw_breakpoint.o

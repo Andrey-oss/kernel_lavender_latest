@@ -1,0 +1,165 @@
+!<thin>
+//                                              2070      `
+hdmi.o/
+backlight/backlight.o/
+backlight/generic_bl.o/
+backlight/qcom-spmi-wled.o/
+fbdev/core/fb_cmdline.o/
+fbdev/core/fb_notify.o/
+fbdev/core/fbmem.o/
+fbdev/core/fbmon.o/
+fbdev/core/fbcmap.o/
+fbdev/core/fbsysfs.o/
+fbdev/core/modedb.o/
+fbdev/core/fbcvt.o/
+fbdev/core/cfbfillrect.o/
+fbdev/core/cfbcopyarea.o/
+fbdev/core/cfbimgblt.o/
+fbdev/core/sysfillrect.o/
+fbdev/core/syscopyarea.o/
+fbdev/core/sysimgblt.o/
+fbdev/core/fb_sys_fops.o/
+fbdev/amba-clcd.o/
+fbdev/msm/mdss_mdp.o/
+fbdev/msm/mdss_mdp_ctl.o/
+fbdev/msm/mdss_mdp_pipe.o/
+fbdev/msm/mdss_mdp_util.o/
+fbdev/msm/dsi_status_6g.o/
+fbdev/msm/mdss_mdp_pp.o/
+fbdev/msm/mdss_mdp_pp_debug.o/
+fbdev/msm/mdss_mdp_pp_cache_config.o/
+fbdev/msm/mdss_sync.o/
+fbdev/msm/mdss_mdp_intf_video.o/
+fbdev/msm/mdss_mdp_intf_cmd.o/
+fbdev/msm/mdss_mdp_intf_writeback.o/
+fbdev/msm/mdss_rotator.o/
+fbdev/msm/mdss_mdp_overlay.o/
+fbdev/msm/mdss_mdp_layer.o/
+fbdev/msm/mdss_mdp_splash_logo.o/
+fbdev/msm/mdss_mdp_cdm.o/
+fbdev/msm/mdss_smmu.o/
+fbdev/msm/mdss_mdp_wfd.o/
+fbdev/msm/mdss_io_util.o/
+fbdev/msm/mdss_mdp_pp_v1_7.o/
+fbdev/msm/mdss_mdp_pp_v3.o/
+fbdev/msm/mdss_mdp_pp_common.o/
+fbdev/msm/mdss_mdp_pp_stub.o/
+fbdev/msm/mdss_dsi.o/
+fbdev/msm/mdss_dsi_host.o/
+fbdev/msm/mdss_dsi_cmd.o/
+fbdev/msm/mdss_dsi_status.o/
+fbdev/msm/mdss_dsi_panel.o/
+fbdev/msm/msm_mdss_io_8974.o/
+fbdev/msm/mdss_dsi_phy.o/
+fbdev/msm/mdss_dsi_phy_v3.o/
+fbdev/msm/mdss_dsi_phy_12nm.o/
+fbdev/msm/mdss_dsi_clk.o/
+fbdev/msm/mdss_panel.o/
+fbdev/msm/mdss_hdmi_util.o/
+fbdev/msm/mdss_hdmi_edid.o/
+fbdev/msm/mdss_cec_core.o/
+fbdev/msm/mdss_dba_utils.o/
+fbdev/msm/mdss_hdmi_tx.o/
+fbdev/msm/mdss_hdmi_panel.o/
+fbdev/msm/mdss_hdcp_1x.o/
+fbdev/msm/mdss_hdcp_2x.o/
+fbdev/msm/mdss_hdmi_hdcp2p2.o/
+fbdev/msm/mdss_hdmi_cec.o/
+fbdev/msm/mdss_hdmi_audio.o/
+fbdev/msm/mdss_dp.o/
+fbdev/msm/mdss_dp_util.o/
+fbdev/msm/mdss_dp_aux.o/
+fbdev/msm/mdss_dp_hdcp2p2.o/
+fbdev/msm/mdss_wb.o/
+fbdev/msm/mdss_fb.o/
+fbdev/msm/mdss_util.o/
+fbdev/msm/mdss_mdp_kcal_ctrl.o/
+fbdev/msm/mdss_compat_utils.o/
+fbdev/vfb.o/
+display_timing.o/
+videomode.o/
+of_display_timing.o/
+of_videomode.o/
+klapse/klapse.o/
+
+/0              0           0     0     644     22104     `
+/8              0           0     0     644     17752     `
+/31             0           0     0     644     5192      `
+/55             0           0     0     644     48608     `
+/83             0           0     0     644     3520      `
+/108            0           0     0     644     1760      `
+/132            0           0     0     644     34408     `
+/152            0           0     0     644     17376     `
+/172            0           0     0     644     7816      `
+/193            0           0     0     644     10880     `
+/215            0           0     0     644     17536     `
+/236            0           0     0     644     4824      `
+/256            0           0     0     644     7032      `
+/282            0           0     0     644     8112      `
+/308            0           0     0     644     4536      `
+/332            0           0     0     644     4392      `
+/358            0           0     0     644     3448      `
+/384            0           0     0     644     2584      `
+/408            0           0     0     644     2040      `
+/434            0           0     0     644     19744     `
+/453            0           0     0     644     133760    `
+/475            0           0     0     644     85648     `
+/501            0           0     0     644     40736     `
+/528            0           0     0     644     23944     `
+/555            0           0     0     644     3648      `
+/582            0           0     0     644     138432    `
+/607            0           0     0     644     24368     `
+/638            0           0     0     644     53104     `
+/676            0           0     0     644     10520     `
+/699            0           0     0     644     42360     `
+/732            0           0     0     644     63272     `
+/763            0           0     0     644     23176     `
+/800            0           0     0     644     72872     `
+/826            0           0     0     644     129656    `
+/856            0           0     0     644     57784     `
+/884            0           0     0     644     59456     `
+/918            0           0     0     644     5080      `
+/944            0           0     0     644     29064     `
+/967            0           0     0     644     16304     `
+/993            0           0     0     644     14824     `
+/1019           0           0     0     644     45152     `
+/1049           0           0     0     644     20208     `
+/1077           0           0     0     644     2024      `
+/1109           0           0     0     644     3200      `
+/1139           0           0     0     644     101800    `
+/1161           0           0     0     644     60576     `
+/1188           0           0     0     644     8640      `
+/1214           0           0     0     644     10024     `
+/1243           0           0     0     644     84344     `
+/1271           0           0     0     644     39624     `
+/1301           0           0     0     644     10000     `
+/1327           0           0     0     644     7064      `
+/1356           0           0     0     644     1688      `
+/1387           0           0     0     644     24416     `
+/1413           0           0     0     644     8864      `
+/1437           0           0     0     644     37648     `
+/1465           0           0     0     644     38440     `
+/1493           0           0     0     644     19144     `
+/1520           0           0     0     644     9440      `
+/1548           0           0     0     644     113872    `
+/1574           0           0     0     644     10184     `
+/1603           0           0     0     644     36024     `
+/1629           0           0     0     644     19896     `
+/1655           0           0     0     644     28536     `
+/1686           0           0     0     644     11192     `
+/1713           0           0     0     644     4464      `
+/1742           0           0     0     644     100272    `
+/1763           0           0     0     644     15280     `
+/1789           0           0     0     644     41680     `
+/1814           0           0     0     644     21640     `
+/1843           0           0     0     644     6360      `
+/1864           0           0     0     644     127936    `
+/1885           0           0     0     644     6104      `
+/1908           0           0     0     644     20960     `
+/1940           0           0     0     644     155784    `
+/1971           0           0     0     644     9264      `
+/1984           0           0     0     644     1184      `
+/2002           0           0     0     644     1184      `
+/2015           0           0     0     644     7072      `
+/2036           0           0     0     644     1584      `
+/2052           0           0     0     644     21224     `

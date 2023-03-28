@@ -1,0 +1,4 @@
+kernel/drivers/input/fingerprint/fpc/fpc1020_platform_tee.ko
+kernel/drivers/input/fingerprint/goodix/gf_spi.ko
+kernel/drivers/input/fingerprint/goodix/platform.ko
+kernel/drivers/input/fingerprint/goodix/netlink.ko

@@ -1,0 +1,1 @@
+cmd_sound/pcmcia/built-in.a :=  rm -f sound/pcmcia/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD sound/pcmcia/built-in.a sound/pcmcia/vx/built-in.a sound/pcmcia/pdaudiocf/built-in.a

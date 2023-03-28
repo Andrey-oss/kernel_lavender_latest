@@ -1,0 +1,1 @@
+cmd_security/built-in.a :=  rm -f security/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD security/built-in.a security/keys/built-in.a security/commoncap.o security/min_addr.o security/security.o security/selinux/built-in.a security/smack/built-in.a security/integrity/built-in.a

@@ -1,0 +1,1 @@
+cmd_drivers/nvme/built-in.a :=  rm -f drivers/nvme/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/nvme/built-in.a drivers/nvme/host/built-in.a drivers/nvme/target/built-in.a

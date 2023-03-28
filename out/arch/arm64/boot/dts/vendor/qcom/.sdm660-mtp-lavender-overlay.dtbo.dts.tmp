@@ -1,0 +1,30 @@
+# 0 "../arch/arm64/boot/dts/vendor/qcom/sdm660-mtp-lavender-overlay.dts"
+# 0 "<built-in>"
+# 0 "<command-line>"
+# 1 "../arch/arm64/boot/dts/vendor/qcom/sdm660-mtp-lavender-overlay.dts"
+# 14 "../arch/arm64/boot/dts/vendor/qcom/sdm660-mtp-lavender-overlay.dts"
+/dts-v1/;
+/plugin/;
+
+# 1 "../scripts/dtc/include-prefixes/dt-bindings/clock/qcom,cpu-osm.h" 1
+# 18 "../arch/arm64/boot/dts/vendor/qcom/sdm660-mtp-lavender-overlay.dts" 2
+# 1 "../scripts/dtc/include-prefixes/dt-bindings/clock/qcom,rpmcc.h" 1
+# 19 "../arch/arm64/boot/dts/vendor/qcom/sdm660-mtp-lavender-overlay.dts" 2
+# 1 "../scripts/dtc/include-prefixes/dt-bindings/clock/qcom,mmcc-sdm660.h" 1
+# 20 "../arch/arm64/boot/dts/vendor/qcom/sdm660-mtp-lavender-overlay.dts" 2
+# 1 "../scripts/dtc/include-prefixes/dt-bindings/regulator/qcom,rpm-smd-regulator.h" 1
+# 21 "../arch/arm64/boot/dts/vendor/qcom/sdm660-mtp-lavender-overlay.dts" 2
+# 1 "../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/arm-gic.h" 1
+# 9 "../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/arm-gic.h"
+# 1 "../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/irq.h" 1
+# 10 "../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/arm-gic.h" 2
+# 22 "../arch/arm64/boot/dts/vendor/qcom/sdm660-mtp-lavender-overlay.dts" 2
+
+/ {
+ model = "Qualcomm Technologies, Inc. SDM 660 PM660 + PM660L MTP F7A overlay";
+ compatible = "qcom,sdm660-mtp", "qcom,sdm660", "qcom,mtp";
+ qcom,board-id = <0x20008 0>;
+ qcom,pmic-id = <0x0001001b 0x0101011a 0x0 0x0>,
+   <0x0001001b 0x0201011a 0x0 0x0>,
+   <0x0001001b 0x0102001a 0x0 0x0>;
+};

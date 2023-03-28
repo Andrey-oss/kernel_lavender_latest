@@ -1,0 +1,1 @@
+cmd_drivers/soc/qcom/memshare/built-in.a :=  rm -f drivers/soc/qcom/memshare/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/soc/qcom/memshare/built-in.a drivers/soc/qcom/memshare/heap_mem_ext_v01.o drivers/soc/qcom/memshare/msm_memshare.o

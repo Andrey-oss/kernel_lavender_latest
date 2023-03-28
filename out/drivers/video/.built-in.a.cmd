@@ -1,0 +1,1 @@
+cmd_drivers/video/built-in.a :=  rm -f drivers/video/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/video/built-in.a drivers/video/hdmi.o drivers/video/backlight/built-in.a drivers/video/fbdev/built-in.a drivers/video/display_timing.o drivers/video/videomode.o drivers/video/of_display_timing.o drivers/video/of_videomode.o drivers/video/klapse/built-in.a

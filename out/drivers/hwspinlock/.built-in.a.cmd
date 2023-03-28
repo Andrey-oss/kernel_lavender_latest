@@ -1,0 +1,1 @@
+cmd_drivers/hwspinlock/built-in.a :=  rm -f drivers/hwspinlock/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/hwspinlock/built-in.a drivers/hwspinlock/hwspinlock_core.o drivers/hwspinlock/qcom_hwspinlock.o

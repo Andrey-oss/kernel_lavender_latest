@@ -1,0 +1,1 @@
+cmd_drivers/spmi/built-in.a :=  rm -f drivers/spmi/built-in.a; /root/kernel/gcc-arm64-main/bin/aarch64-elf-ar rcSTPD drivers/spmi/built-in.a drivers/spmi/spmi.o drivers/spmi/spmi-pmic-arb.o drivers/spmi/spmi-pmic-arb-debug.o

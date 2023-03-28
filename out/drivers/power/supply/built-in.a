@@ -1,0 +1,32 @@
+!<thin>
+//                                              298       `
+power_supply_core.o/
+power_supply_sysfs.o/
+power_supply_leds.o/
+qcom/smb1351-charger.o/
+qcom/pmic-voter.o/
+qcom/battery.o/
+qcom/step-chg-jeita.o/
+qcom/qpnp-smb2.o/
+qcom/smb-lib.o/
+qcom/storm-watch.o/
+qcom/smb138x-charger.o/
+qcom/qpnp-fg-gen3.o/
+qcom/fg-memif.o/
+qcom/fg-util.o/
+qcom/qpnp-qnovo5.o/
+/0              0           0     0     644     21072     `
+/21             0           0     0     644     37784     `
+/43             0           0     0     644     3752      `
+/64             0           0     0     644     59304     `
+/88             0           0     0     644     7984      `
+/107            0           0     0     644     41440     `
+/123            0           0     0     644     17480     `
+/146            0           0     0     644     62408     `
+/164            0           0     0     644     144632    `
+/180            0           0     0     644     1688      `
+/200            0           0     0     644     48376     `
+/224            0           0     0     644     156608    `
+/245            0           0     0     644     33832     `
+/262            0           0     0     644     32320     `
+/278            0           0     0     644     44736     `

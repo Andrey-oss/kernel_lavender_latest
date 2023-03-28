@@ -1,0 +1,7 @@
+kernel/drivers/net/wireless/cnss_genl/cnss_nl.ko
+kernel/drivers/net/wireless/cnss_prealloc/cnss_prealloc.ko
+kernel/drivers/net/wireless/mediatek/mt7601u/mt7601u.ko
+kernel/drivers/net/wireless/ralink/rt2x00/rt2x00lib.ko
+kernel/drivers/net/wireless/ralink/rt2x00/rt2x00usb.ko
+kernel/drivers/net/wireless/ralink/rt2x00/rt2800lib.ko
+kernel/drivers/net/wireless/ralink/rt2x00/rt2800usb.ko

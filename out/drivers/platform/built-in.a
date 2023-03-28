@@ -1,0 +1,157 @@
+!<thin>
+//                                              2120      `
+msm/msm_ext_display.o/
+msm/qpnp-revid.o/
+msm/sps/bam.o/
+msm/sps/sps_bam.o/
+msm/sps/sps.o/
+msm/sps/sps_dma.o/
+msm/sps/sps_map.o/
+msm/sps/sps_mem.o/
+msm/sps/sps_rm.o/
+msm/gsi/gsi.o/
+msm/gsi/gsi_dbg.o/
+msm/ipa/ipa_v2/ipa.o/
+msm/ipa/ipa_v2/ipa_debugfs.o/
+msm/ipa/ipa_v2/ipa_hdr.o/
+msm/ipa/ipa_v2/ipa_flt.o/
+msm/ipa/ipa_v2/ipa_rt.o/
+msm/ipa/ipa_v2/ipa_dp.o/
+msm/ipa/ipa_v2/ipa_client.o/
+msm/ipa/ipa_v2/ipa_utils.o/
+msm/ipa/ipa_v2/ipa_nat.o/
+msm/ipa/ipa_v2/ipa_intf.o/
+msm/ipa/ipa_v2/teth_bridge.o/
+msm/ipa/ipa_v2/ipa_interrupts.o/
+msm/ipa/ipa_v2/ipa_uc.o/
+msm/ipa/ipa_v2/ipa_uc_wdi.o/
+msm/ipa/ipa_v2/ipa_dma.o/
+msm/ipa/ipa_v2/ipa_uc_mhi.o/
+msm/ipa/ipa_v2/ipa_mhi.o/
+msm/ipa/ipa_v2/ipa_uc_ntn.o/
+msm/ipa/ipa_v2/ipa_wdi3_i.o/
+msm/ipa/ipa_v2/rmnet_ipa.o/
+msm/ipa/ipa_v2/ipa_qmi_service_v01.o/
+msm/ipa/ipa_v2/ipa_qmi_service.o/
+msm/ipa/ipa_v2/rmnet_ipa_fd_ioctl.o/
+msm/ipa/ipa_clients/ipa_usb.o/
+msm/ipa/ipa_clients/odu_bridge.o/
+msm/ipa/ipa_clients/ipa_mhi_client.o/
+msm/ipa/ipa_clients/ipa_uc_offload.o/
+msm/ipa/ipa_clients/ipa_wdi3.o/
+msm/ipa/ipa_clients/ipa_gsb.o/
+msm/ipa/ipa_clients/ipa_wigig.o/
+msm/ipa/ipa_clients/rndis_ipa.o/
+msm/ipa/ipa_api.o/
+msm/ipa/ipa_rm.o/
+msm/ipa/ipa_rm_dependency_graph.o/
+msm/ipa/ipa_rm_peers_list.o/
+msm/ipa/ipa_rm_resource.o/
+msm/ipa/ipa_rm_inactivity_timer.o/
+msm/ipa/ipa_v3/ipahal/ipahal.o/
+msm/ipa/ipa_v3/ipahal/ipahal_reg.o/
+msm/ipa/ipa_v3/ipahal/ipahal_fltrt.o/
+msm/ipa/ipa_v3/ipahal/ipahal_hw_stats.o/
+msm/ipa/ipa_v3/ipahal/ipahal_nat.o/
+msm/ipa/ipa_v3/ipa.o/
+msm/ipa/ipa_v3/ipa_debugfs.o/
+msm/ipa/ipa_v3/ipa_hdr.o/
+msm/ipa/ipa_v3/ipa_flt.o/
+msm/ipa/ipa_v3/ipa_rt.o/
+msm/ipa/ipa_v3/ipa_dp.o/
+msm/ipa/ipa_v3/ipa_client.o/
+msm/ipa/ipa_v3/ipa_utils.o/
+msm/ipa/ipa_v3/ipa_nat.o/
+msm/ipa/ipa_v3/ipa_intf.o/
+msm/ipa/ipa_v3/teth_bridge.o/
+msm/ipa/ipa_v3/ipa_interrupts.o/
+msm/ipa/ipa_v3/ipa_uc.o/
+msm/ipa/ipa_v3/ipa_uc_wdi.o/
+msm/ipa/ipa_v3/ipa_dma.o/
+msm/ipa/ipa_v3/ipa_uc_mhi.o/
+msm/ipa/ipa_v3/ipa_mhi.o/
+msm/ipa/ipa_v3/ipa_uc_ntn.o/
+msm/ipa/ipa_v3/ipa_hw_stats.o/
+msm/ipa/ipa_v3/ipa_pm.o/
+msm/ipa/ipa_v3/ipa_wdi3_i.o/
+msm/ipa/ipa_v3/ipa_odl.o/
+msm/ipa/ipa_v3/ipa_wigig_i.o/
+msm/usb_bam.o/
+
+/0              0           0     0     644     16136     `
+/23             0           0     0     644     10568     `
+/41             0           0     0     644     76488     `
+/56             0           0     0     644     25952     `
+/75             0           0     0     644     54248     `
+/90             0           0     0     644     840       `
+/109            0           0     0     644     2264      `
+/128            0           0     0     644     4560      `
+/147            0           0     0     644     10488     `
+/165            0           0     0     644     110840    `
+/180            0           0     0     644     30000     `
+/199            0           0     0     644     120224    `
+/221            0           0     0     644     1488      `
+/251            0           0     0     644     44712     `
+/277            0           0     0     644     45576     `
+/303            0           0     0     644     47016     `
+/328            0           0     0     644     85248     `
+/353            0           0     0     644     26776     `
+/382            0           0     0     644     134760    `
+/410            0           0     0     644     25736     `
+/436            0           0     0     644     18632     `
+/463            0           0     0     644     6600      `
+/493            0           0     0     644     11432     `
+/526            0           0     0     644     21200     `
+/551            0           0     0     644     36928     `
+/580            0           0     0     644     27632     `
+/606            0           0     0     644     20744     `
+/635            0           0     0     644     12384     `
+/661            0           0     0     644     14400     `
+/690            0           0     0     644     15368     `
+/719            0           0     0     644     96456     `
+/747            0           0     0     644     12568     `
+/785            0           0     0     644     40560     `
+/819            0           0     0     644     12712     `
+/856            0           0     0     644     66584     `
+/887            0           0     0     644     33088     `
+/921            0           0     0     644     78432     `
+/959            0           0     0     644     24688     `
+/997            0           0     0     644     28576     `
+/1029           0           0     0     644     38160     `
+/1060           0           0     0     644     57040     `
+/1093           0           0     0     644     35256     `
+/1126           0           0     0     644     126072    `
+/1145           0           0     0     644     38760     `
+/1163           0           0     0     644     5696      `
+/1198           0           0     0     644     4160      `
+/1227           0           0     0     644     21272     `
+/1254           0           0     0     644     7744      `
+/1289           0           0     0     644     52832     `
+/1321           0           0     0     644     152840    `
+/1357           0           0     0     644     118504    `
+/1395           0           0     0     644     16248     `
+/1436           0           0     0     644     18864     `
+/1472           0           0     0     644     208384    `
+/1494           0           0     0     644     1112      `
+/1524           0           0     0     644     40272     `
+/1550           0           0     0     644     62024     `
+/1576           0           0     0     644     75344     `
+/1601           0           0     0     644     127312    `
+/1626           0           0     0     644     54904     `
+/1655           0           0     0     644     227416    `
+/1683           0           0     0     644     54600     `
+/1709           0           0     0     644     20392     `
+/1736           0           0     0     644     7624      `
+/1766           0           0     0     644     14920     `
+/1799           0           0     0     644     40992     `
+/1824           0           0     0     644     65664     `
+/1853           0           0     0     644     34880     `
+/1879           0           0     0     644     20960     `
+/1908           0           0     0     644     25184     `
+/1934           0           0     0     644     19040     `
+/1963           0           0     0     644     52792     `
+/1994           0           0     0     644     44608     `
+/2019           0           0     0     644     28072     `
+/2048           0           0     0     644     17496     `
+/2074           0           0     0     644     41472     `
+/2104           0           0     0     644     197232    `

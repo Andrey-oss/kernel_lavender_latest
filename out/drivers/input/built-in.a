@@ -1,0 +1,111 @@
+!<thin>
+//                                              1662      `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+event_notify.o/
+input-leds.o/
+evdev.o/
+keyboard/gpio_keys.o/
+joystick/xpad.o/
+touchscreen/of_touchscreen.o/
+touchscreen/st/fts.o/
+touchscreen/st/fts_gui.o/
+touchscreen/st/fts_driver_test.o/
+touchscreen/st/fts_aoi_event.o/
+touchscreen/st/fts_lib/ftsCompensation.o/
+touchscreen/st/fts_lib/ftsCrossCompile.o/
+touchscreen/st/fts_lib/ftsError.o/
+touchscreen/st/fts_lib/ftsFrame.o/
+touchscreen/st/fts_lib/ftsIO.o/
+touchscreen/st/fts_lib/ftsTest.o/
+touchscreen/st/fts_lib/ftsTime.o/
+touchscreen/st/fts_lib/ftsTool.o/
+touchscreen/st/fts_lib/ftsFlash.o/
+touchscreen/st/fts_lib/ftsGesture.o/
+touchscreen/synaptics_tcm/synaptics_tcm_i2c.o/
+touchscreen/synaptics_tcm/synaptics_tcm_core.o/
+touchscreen/synaptics_tcm/synaptics_tcm_touch.o/
+touchscreen/synaptics_tcm/synaptics_tcm_device.o/
+touchscreen/synaptics_tcm/synaptics_tcm_testing.o/
+touchscreen/synaptics_tcm/synaptics_tcm_reflash.o/
+touchscreen/synaptics_tcm/synaptics_tcm_recovery.o/
+touchscreen/synaptics_tcm/synaptics_tcm_zeroflash.o/
+touchscreen/synaptics_tcm/synaptics_tcm_diagnostics.o/
+touchscreen/nvt_touch_f7a/nt36xxx.o/
+touchscreen/nvt_touch_f7a/nt36xxx_fw_update.o/
+touchscreen/nvt_touch_f7a/nt36xxx_ext_proc.o/
+touchscreen/nvt_touch_f7a/nt36xxx_mp_ctrlram.o/
+touchscreen/synaptics_dsx_force/synaptics_dsx_i2c.o/
+touchscreen/tp_common.o/
+misc/gpio_event.o/
+misc/gpio_matrix.o/
+misc/gpio_input.o/
+misc/gpio_output.o/
+misc/gpio_axis.o/
+misc/qpnp-power-on.o/
+misc/qti-haptics.o/
+misc/uinput.o/
+fingerprint/fpc/fpc1020_platform_tee.o/
+fingerprint/goodix/gf_spi.o/
+fingerprint/goodix/platform.o/
+fingerprint/goodix/netlink.o/
+keyreset.o/
+keycombo.o/
+hall_e7s.o/
+
+/0              0           0     0     644     60608     `
+/9              0           0     0     644     2816      `
+/25             0           0     0     644     6632      `
+/37             0           0     0     644     4520      `
+/48             0           0     0     644     1792      `
+/64             0           0     0     644     6792      `
+/78             0           0     0     644     29248     `
+/87             0           0     0     644     21904     `
+/109            0           0     0     644     39784     `
+/126            0           0     0     644     4144      `
+/156            0           0     0     644     13336     `
+/178            0           0     0     644     840       `
+/204            0           0     0     644     22784     `
+/238            0           0     0     644     3360      `
+/270            0           0     0     644     22968     `
+/312            0           0     0     644     1144      `
+/354            0           0     0     644     9424      `
+/389            0           0     0     644     15968     `
+/424            0           0     0     644     11368     `
+/456            0           0     0     644     147416    `
+/490            0           0     0     644     2128      `
+/524            0           0     0     644     52696     `
+/558            0           0     0     644     29160     `
+/593            0           0     0     644     25648     `
+/630            0           0     0     644     13824     `
+/677            0           0     0     644     104784    `
+/725            0           0     0     644     25416     `
+/774            0           0     0     644     20712     `
+/824            0           0     0     644     74944     `
+/875            0           0     0     644     57616     `
+/926            0           0     0     644     21800     `
+/978            0           0     0     644     24208     `
+/1031           0           0     0     644     18368     `
+/1086           0           0     0     644     29032     `
+/1123           0           0     0     644     856       `
+/1170           0           0     0     644     856       `
+/1216           0           0     0     644     856       `
+/1264           0           0     0     644     24224     `
+/1317           0           0     0     644     3312      `
+/1342           0           0     0     644     6256      `
+/1361           0           0     0     644     10360     `
+/1381           0           0     0     644     9744      `
+/1400           0           0     0     644     2704      `
+/1420           0           0     0     644     4880      `
+/1438           0           0     0     644     50072     `
+/1460           0           0     0     644     37928     `
+/1480           0           0     0     644     22712     `
+/1495           0           0     0     644     26912     `
+/1535           0           0     0     644     20392     `
+/1564           0           0     0     644     4424      `
+/1595           0           0     0     644     3184      `
+/1625           0           0     0     644     5032      `
+/1637           0           0     0     644     7848      `
+/1649           0           0     0     644     10888     `

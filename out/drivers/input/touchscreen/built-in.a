@@ -1,0 +1,62 @@
+!<thin>
+//                                              856       `
+of_touchscreen.o/
+st/fts.o/
+st/fts_gui.o/
+st/fts_driver_test.o/
+st/fts_aoi_event.o/
+st/fts_lib/ftsCompensation.o/
+st/fts_lib/ftsCrossCompile.o/
+st/fts_lib/ftsError.o/
+st/fts_lib/ftsFrame.o/
+st/fts_lib/ftsIO.o/
+st/fts_lib/ftsTest.o/
+st/fts_lib/ftsTime.o/
+st/fts_lib/ftsTool.o/
+st/fts_lib/ftsFlash.o/
+st/fts_lib/ftsGesture.o/
+synaptics_tcm/synaptics_tcm_i2c.o/
+synaptics_tcm/synaptics_tcm_core.o/
+synaptics_tcm/synaptics_tcm_touch.o/
+synaptics_tcm/synaptics_tcm_device.o/
+synaptics_tcm/synaptics_tcm_testing.o/
+synaptics_tcm/synaptics_tcm_reflash.o/
+synaptics_tcm/synaptics_tcm_recovery.o/
+synaptics_tcm/synaptics_tcm_zeroflash.o/
+synaptics_tcm/synaptics_tcm_diagnostics.o/
+nvt_touch_f7a/nt36xxx.o/
+nvt_touch_f7a/nt36xxx_fw_update.o/
+nvt_touch_f7a/nt36xxx_ext_proc.o/
+nvt_touch_f7a/nt36xxx_mp_ctrlram.o/
+synaptics_dsx_force/synaptics_dsx_i2c.o/
+tp_common.o/
+/0              0           0     0     644     4144      `
+/18             0           0     0     644     13336     `
+/28             0           0     0     644     840       `
+/42             0           0     0     644     22784     `
+/64             0           0     0     644     3360      `
+/84             0           0     0     644     22968     `
+/114            0           0     0     644     1144      `
+/144            0           0     0     644     9424      `
+/167            0           0     0     644     15968     `
+/190            0           0     0     644     11368     `
+/210            0           0     0     644     147416    `
+/232            0           0     0     644     2128      `
+/254            0           0     0     644     52696     `
+/276            0           0     0     644     29160     `
+/299            0           0     0     644     25648     `
+/324            0           0     0     644     13824     `
+/359            0           0     0     644     104784    `
+/395            0           0     0     644     25416     `
+/432            0           0     0     644     20712     `
+/470            0           0     0     644     74944     `
+/509            0           0     0     644     57616     `
+/548            0           0     0     644     21800     `
+/588            0           0     0     644     24208     `
+/629            0           0     0     644     18368     `
+/672            0           0     0     644     29032     `
+/697            0           0     0     644     856       `
+/732            0           0     0     644     856       `
+/766            0           0     0     644     856       `
+/802            0           0     0     644     24224     `
+/843            0           0     0     644     3312      `
